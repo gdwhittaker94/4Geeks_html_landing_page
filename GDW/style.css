@@ -1,0 +1,8 @@
+.a-hover{
+    transition: all 200ms ease-in;
+}
+
+.a-hover:hover {
+    color: black !important;
+    background-color: #fff;
+}
